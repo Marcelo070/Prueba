@@ -11,8 +11,7 @@
     <title>Galpon</title>
 </head>
 <body>
-    
+    <a href="galpon.php" class="btn btn-primary m-3" >Galpon</a>
+    <a href="animal.php" class="btn btn-primary m-3" >Animal</a>
 
 
-</body>
-</html>
